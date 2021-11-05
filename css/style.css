@@ -21,23 +21,43 @@ h2 {
     background-color: chartreuse;
     padding: 6px;
     margin: 20px;
-    img {
-        float: left;
-      }
+    float: left;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    height: 300px;
   }
 
-  
 .projectone {
     border: 2px solid black;
+    background-color: blue;
     float: left;
     padding: 6px;
     margin: 20px;
+    float: left;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    height: 300px;
+    img {
+        width: 500%;
+        height: 270px;
+    }
   }
-}
+
 .projecttwo {
     border: 2px solid black;
+    background-color: chartreuse;
     padding: 6px;
     margin: 20px;
+    float: left;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    height: 300px;
 }
 .hobbies {
     color: red;
