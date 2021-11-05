@@ -1,5 +1,5 @@
 # My Portfolio
-### Hi, I am Fidelis Morike Momanyi
+### I am Fidelis Morike Momanyi
 ### A student at Moringa School
 ## Description
 This project is about my portfolio and it contains information about my-self, my hobbies and links that can direct you to my work.

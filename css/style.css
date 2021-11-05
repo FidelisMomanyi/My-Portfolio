@@ -1,7 +1,22 @@
 h1 {
-    color: blue;
-    font-style: italic;
+    color: black;
+    font-family: comic sans;
 }
-
-p {font-family: sans-serif
+.portfolio{
+    img{
+        float: right: ;
+        
+    }
 }
+@media screen and (min-width: 480px) {
+    body {
+        background-color: rgb(47, 225, 248);
+        color: white;
+        width: 50%;
+        height: 220px;
+        position: relative;
+        justify-content: space-evenly;
+        align-items: center;
+    }
+}
+  
