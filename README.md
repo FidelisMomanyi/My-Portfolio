@@ -24,4 +24,4 @@ Incase of any queries you can reach me at;
  Fidelis Morike Momanyi
 ```
 ### License
-Copyright (c) 2021 Github.Inc
+Copyright (c) 2021 <a href="https://github.com/FidelisMomanyi/My-Portfolio.git"> Github.Inc

@@ -1,17 +1,43 @@
 h1 {
     color: black;
     font-family: comic sans;
+    text-align: left;
 }
+h2 {
+    color: green;
+    font-style: italic;
+    text-align: center;
+  }
+  p {
+    font-family: sans-serif;
+  }
+  ul {
+    line-height: 40px;
+  }
+
+  .portfolio {
+    font-style: italic;
+    background-color: chartreuse;
+  }
+
 .portfolio{
     img{
         float: right: ;
         
     }
 }
+.projectone {
+    
+}
+.projecttwo {
+    
+}
+.hobbies {
+    color: red;
+}
 @media screen and (min-width: 480px) {
     body {
-        background-color: rgb(47, 225, 248);
-        color: white;
+        color: black;
         width: 50%;
         height: 220px;
         position: relative;
