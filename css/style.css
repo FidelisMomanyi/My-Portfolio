@@ -18,6 +18,7 @@ h2 {
   .portfolio {
     border: 2px solid black;
     font-style: italic;
+    font-size: 15px;
     background-color: chartreuse;
     padding: 6px;
     margin: 20px;
@@ -58,6 +59,9 @@ h2 {
     justify-content: center;
     width: 100%;
     height: 300px;
+    img {
+
+    }
 }
 .hobbies {
     color: red;
@@ -69,7 +73,7 @@ h2 {
         color: white;
     }
 }
-@media screen and (min-width: 768px) {
+@media screen and (min-width: 768px){
   body {
     background-color: rgb(63, 224, 245);
   }
@@ -80,7 +84,7 @@ h2 {
   }
 }
   
-@media screen and (min-width: 480px) {
+@media screen and (min-width: 150px) {
     body {
         color: black;
         width: 50%;
