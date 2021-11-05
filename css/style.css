@@ -16,25 +16,50 @@ h2 {
   }
 
   .portfolio {
+    border: 2px solid black;
     font-style: italic;
     background-color: chartreuse;
+    padding: 6px;
+    margin: 20px;
+    img {
+        float: left;
+      }
   }
 
-.portfolio{
-    img{
-        float: right: ;
-        
-    }
-}
+  
 .projectone {
-    
+    border: 2px solid black;
+    float: left;
+    padding: 6px;
+    margin: 20px;
+  }
 }
 .projecttwo {
-    
+    border: 2px solid black;
+    padding: 6px;
+    margin: 20px;
 }
 .hobbies {
     color: red;
 }
+
+@media screen and (min-width: 480px) and (max-width: 767px) {
+    body {
+        background-color: yellowgreen;
+        color: white;
+    }
+}
+@media screen and (min-width: 768px) {
+  body {
+    background-color: rgb(63, 224, 245);
+  }
+  .column {
+    width: 220px;
+    float: left;
+    padding: 15px;
+  }
+}
+  
 @media screen and (min-width: 480px) {
     body {
         color: black;
