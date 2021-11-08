@@ -15,6 +15,16 @@ ul {
   line-height: 40px;
 }
 
+navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 60px;
+  background-color: aquamarine;
+  box-shadow: 3px 3px 12pc black;
+  padding: 0px 5%;
+}
+
 .portfolio {
   border: 2px solid black;
   font-size: 18px;
