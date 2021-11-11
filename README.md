@@ -11,9 +11,11 @@ https://github.com/FidelisMomanyi/My-Portfolio.git
 ```
 * Open the project with your perfect Intergrated Development Environment (IDE)
 ## Live link
-```
-https://github.com/FidelisMomanyi/My-Portfolio.git
-```
+
+https://fidelismomanyi.github.io/My-Portfolio/
+
+## Known Bugs
+The navigation bars aren't functioning as expected.
 ## Technologies Used
 I used the HTML and the CSS languages to make this project a success. The project is simple and clear to the point.
 ## Support and contact details
