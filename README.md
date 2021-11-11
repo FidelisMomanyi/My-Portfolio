@@ -1,6 +1,8 @@
 # My Portfolio
 ### I am Fidelis Morike Momanyi
 ### A student at Moringa School
+#### By **{List of contributors}**
+By FidelisMomanyi
 ## Description
 This project is about my portfolio and it contains information about my-self, my hobbies and links that can direct you to my work.
 ## Setup/Installation Requirements
@@ -26,4 +28,4 @@ Incase of any queries you can reach me at;
  Fidelis Morike Momanyi
 ```
 ### License
-Copyright (c) 2021 <a href="https://github.com/FidelisMomanyi/My-Portfolio.git"> Github.Inc
+Software under the MIT license Copyright (c) 2021
