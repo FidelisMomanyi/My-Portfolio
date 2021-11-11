@@ -28,4 +28,6 @@ Incase of any queries you can reach me at;
  Fidelis Morike Momanyi
 ```
 ### License
-Software under the MIT license Copyright (c) 2021
+Software under the MIT license.
+
+Copyright (c) 2021
