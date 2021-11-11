@@ -6,9 +6,9 @@ This project is about my portfolio and it contains information about my-self, my
 ## Setup/Installation Requirements
 * Clone the repository from Github
 * Git clone
-```
+
 https://github.com/FidelisMomanyi/My-Portfolio.git
-```
+
 * Open the project with your perfect Intergrated Development Environment (IDE)
 ## Live link
 
