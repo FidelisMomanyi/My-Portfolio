@@ -27,7 +27,12 @@ Incase of any queries you can reach me at;
 ```
  Fidelis Morike Momanyi
 ```
+
+```
+fidelismomanyi001@gmail.com
+```
+
 ### License
-Software under the [MIT](License).
+This software is under the [MIT](License).
 
 Copyright (c) 2021 **Fidelis Momanyi**
