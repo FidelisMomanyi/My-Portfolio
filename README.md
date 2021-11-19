@@ -33,4 +33,4 @@ fidelismomanyi001@gmail.com
 ```
 
 ### License
-This software is under the [MIT](License).Copyright (c) 2021 **Fidelis Momanyi**
+This software is under the [MIT](License). Copyright (c) 2021 **Fidelis Momanyi**
